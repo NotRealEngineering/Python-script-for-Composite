@@ -1,5 +1,4 @@
 #Property of Not Real Engineering 
-#Author: Shank S. Kulkarni
 #Copyright 2020 Not Real Engineering - All Rights Reserved You may not use, 
 #           distribute and modify this code without the written permission 
 #           from Not Real Engineering.
@@ -150,4 +149,3 @@ mdb.Job(atTime=None, contactPrint=OFF, description='', echoPrint=OFF,
     numCpus=1, numGPUs=0, queue=None, resultsFormat=ODB, scratch='', type=
     ANALYSIS, userSubroutine='', waitHours=0, waitMinutes=0)
 #Property of Not Real Engineering 
-# Author: Shank S. Kulkarni
